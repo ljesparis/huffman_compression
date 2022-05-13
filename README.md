@@ -15,4 +15,4 @@ Requirements
 Usage
 ---
 
-cargo run 
+```cargo run```
