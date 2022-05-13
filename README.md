@@ -1,4 +1,4 @@
-huffman_compression
+Huffman compression algorithm
 ---
 
 
